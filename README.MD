@@ -1,7 +1,8 @@
 # Node.js False Interpreter
+- Run FALSE programs in Node.js
 
 ### Install
-``node install false-language``
+``npm install false-language``
 
 ### Examples
 
