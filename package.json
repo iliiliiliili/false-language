@@ -2,13 +2,16 @@
   "name": "false-language",
   "version": "1.0.1",
   "description": "Node.js FALSE interpreter",
-  "main": "main.js",
+  "main": "fls.js",
   "scripts": {
     "test": "node test.js"
   },
   "keywords": ["false", "language", "programming-language"],
   "author": "Illia Oleksiienko <iliiliilya123@gmail.com>",
   "license": "GNU GPL v3.0",
+  "dependencies": {
+    "readline-sync": "0.2.4 - 1.4"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/iliiliiliili/false-language.git"
